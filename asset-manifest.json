@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/100ehtuzam.github.io./bookstore/static/css/main.98bde0ed.css",
-    "main.js": "/100ehtuzam.github.io./bookstore/static/js/main.f2d2e638.js",
-    "static/js/453.d3d39a9b.chunk.js": "/100ehtuzam.github.io./bookstore/static/js/453.d3d39a9b.chunk.js",
-    "index.html": "/100ehtuzam.github.io./bookstore/index.html",
-    "main.98bde0ed.css.map": "/100ehtuzam.github.io./bookstore/static/css/main.98bde0ed.css.map",
-    "main.f2d2e638.js.map": "/100ehtuzam.github.io./bookstore/static/js/main.f2d2e638.js.map",
-    "453.d3d39a9b.chunk.js.map": "/100ehtuzam.github.io./bookstore/static/js/453.d3d39a9b.chunk.js.map"
+    "main.css": "/bookstore/static/css/main.98bde0ed.css",
+    "main.js": "/bookstore/static/js/main.6fa0d92f.js",
+    "static/js/453.d3d39a9b.chunk.js": "/bookstore/static/js/453.d3d39a9b.chunk.js",
+    "index.html": "/bookstore/index.html",
+    "main.98bde0ed.css.map": "/bookstore/static/css/main.98bde0ed.css.map",
+    "main.6fa0d92f.js.map": "/bookstore/static/js/main.6fa0d92f.js.map",
+    "453.d3d39a9b.chunk.js.map": "/bookstore/static/js/453.d3d39a9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98bde0ed.css",
-    "static/js/main.f2d2e638.js"
+    "static/js/main.6fa0d92f.js"
   ]
 }
