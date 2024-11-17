@@ -5,7 +5,11 @@ const App = () => {
   return(
       <>
       <h1> Hello</h1>
-      <p>Adding new features(dropdown added)</p>
+
+      <p>Adding new features(dropdown)</p>
+
+      <p>Adding new features(button)</p>
+
       </>
       
     );
